@@ -1,1 +1,1 @@
-# simple-webapp
+# Simple webapp deployment scenario using terraform
